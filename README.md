@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=cwey/Word-Game-Solver)
+
 # Wordle-Solver
 This is a MATLAB app to solve that allows you to solve a wordle problem by providing valid suggestions based on your previous attempts
 
